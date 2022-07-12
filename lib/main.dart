@@ -26,7 +26,7 @@ class _MeuPrimeiroAppState extends State<MeuPrimeiroApp> {
           'Notas',
           style: TextStyle(
             fontWeight: FontWeight.bold,
-            fontSize: 30,
+            fontSize: 20,
           ),
         ),
         toolbarHeight: 70,
